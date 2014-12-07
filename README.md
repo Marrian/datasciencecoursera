@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Attributed to data scientist's toolbox 
+ Data scientist's toolbox 
